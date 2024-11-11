@@ -1,7 +1,7 @@
 # AI Agents for Product Design and Marketing
 
 ## Introduction:
-This project is an example of an agentic workflow that can develop outlines for products along with marketing strategies for these products for any given marketing niche. 
+This project is an example of an agentic workflow that can develop outlines for products, along with marketing strategies for these products, for any given marketing niche. 
 
 This project uses the CrewAI framework for the AI agent team.
 
