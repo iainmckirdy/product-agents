@@ -1,0 +1,24 @@
+research:
+  description: >
+    Research {niche} and produce a report that can help design and market 
+    products to this niche, do this only looking at the top 3 most relevant
+    articles to this niche.
+  expected_output: >
+    The final report must describe the target niche in detail and provide 
+    key insights that will help design products to cater to this group, along 
+    with ways to market to this group.
+
+design:
+  description: >
+    Design 5 products that will sell well for the given niche in the report.
+  expected_output: >
+    The given list should name and describe 5 products that will likely sell 
+    well for the given group.
+
+marketing:
+  description: >
+    Develop the marketing strategy for the products given to you that will 
+    cater to their niche.
+  expected_output: >
+    A description of the product and an effective marketing strategy for each 
+    product should be given that will cater well to the specific niche.
